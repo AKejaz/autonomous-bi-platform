@@ -7,8 +7,8 @@ groq==0.5.0
 psycopg2-binary
 sqlalchemy==2.0.29
 chromadb==0.4.24
-pandas==2.2.1
-numpy==1.26.4
+pandas
+numpy
 plotly==5.20.0
 reportlab==4.1.0
 python-dotenv==1.0.1
@@ -18,5 +18,5 @@ tenacity==8.2.3
 schedule==1.2.1
 bcrypt==4.1.2
 PyYAML==6.0.1
-Pillow==10.3.0
+Pillow
 scipy==1.13.0
